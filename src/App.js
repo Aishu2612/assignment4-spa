@@ -2,7 +2,6 @@ import logo from "./images/logo.png";
 import "./css/App.css";
 import BlogPosts from "./components/BlogPosts";
 import News from './components/News';
-import NewsRefresh from './components/NewsRefresh';
 
 function App() {
   return (
