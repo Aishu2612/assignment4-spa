@@ -10,7 +10,7 @@ run npm start to run the web application
 
 xmlparser is used to dynamically load the xml file and parse the blogs. used react set state to load blogs and bind them to the Blogposts component which has title,image,body,author and date
 
-when a link is blog is clicked an event is added which will show the body of the selected blog
+when a blog title  is clicked an event is added which will show the body of the selected blog only
 
 
 
