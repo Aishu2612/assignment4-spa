@@ -1,0 +1,33 @@
+.blog-title{
+   color: black;
+
+}
+.blog-date{
+    color: black;
+}
+.blog-author{
+    color: black;
+}
+.blog-summary{
+    color: black;
+}
+
+.blog-post{
+    width: 100%;
+    clear:both;
+    padding: 10px;
+}
+
+.blog-image img {
+    height: 80px;
+    float: left;
+    padding: 10px;
+}
+.blog-details{
+    float: left;
+    padding: 10px;
+}
+.blog-body {
+    clear: both;
+    padding: 10px;
+}

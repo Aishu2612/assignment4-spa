@@ -1,0 +1,58 @@
+.siteLogo {
+  width: 20%;
+  float: left;
+}
+
+.siteLogo img {
+  height: 115px;
+
+}
+
+.siteTitle {
+  width: 80%;
+  float: left;
+}
+
+.site-mainsection {
+  width: 65%;
+  float: left;
+  background-color: aqua;
+}
+
+.site-asidesection {
+  width: 30%;
+  float: left;
+
+
+  padding: 15px;
+
+
+}
+
+.app-header {
+  background-color: #282c34;
+  font-size: 20px;
+  color: white;
+  padding: 10px;
+  height: 125px;
+}
+
+.app-footer {
+  position: absolute;
+  bottom: 0;
+  height: 60px;
+  background-color: #282c34;
+  width: 100%;
+}
+.news-item{
+  padding:5px;
+}
+.home-btn {
+  background-color: #ffbc00;
+  color: black;
+  padding: 15px 25px;
+  text-decoration: none;
+  cursor: pointer;
+  border: none;
+  font-weight: bold;
+}
